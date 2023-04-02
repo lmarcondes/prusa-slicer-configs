@@ -2,3 +2,5 @@
 *.stl
 *.svg
 *.lock
+*.cereal
+*.zip
