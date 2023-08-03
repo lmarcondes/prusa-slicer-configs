@@ -6,4 +6,6 @@
 *.zip
 PrusaSlicer.ini
 PrusaSlicerGcodeViewer.ini
-cache/vendor
+cache/
+snapshots/
+cache
