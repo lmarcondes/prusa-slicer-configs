@@ -2,11 +2,31 @@
 
 All notable changes to this project will be documented in this file.
 
-## [unreleased]
+## [1.4.3] - 2024-03-01
+
+### 🚀 Features
+
+- *(printer)* Remove G92 code
+
+### ⚙️ Miscellaneous Tasks
+
+- Update ini configs
+
+## [1.4.2] - 2024-02-29
 
 ### 🚀 Features
 
 - *(main)* Add changelog definition
+- *(printer)* Update e3s1 custom gcode
+
+### 📚 Documentation
+
+- Update changelog
+
+### ⚙️ Miscellaneous Tasks
+
+- Add vendors
+- Update ini definitions
 
 ## [1.4.1] - 2024-02-01
 
