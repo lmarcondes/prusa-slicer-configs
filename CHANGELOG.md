@@ -1,6 +1,38 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Changelog](#changelog)
+  - [[unreleased]](#unreleased)
+    - [⚙️ Miscellaneous Tasks](#-miscellaneous-tasks)
+  - [[1.4.3] - 2024-03-01](#143---2024-03-01)
+    - [🚀 Features](#-features)
+    - [⚙️ Miscellaneous Tasks](#-miscellaneous-tasks-1)
+  - [[1.4.2] - 2024-02-29](#142---2024-02-29)
+    - [🚀 Features](#-features-1)
+    - [📚 Documentation](#-documentation)
+    - [⚙️ Miscellaneous Tasks](#-miscellaneous-tasks-2)
+  - [[1.4.1] - 2024-02-01](#141---2024-02-01)
+    - [🐛 Bug Fixes](#-bug-fixes)
+  - [[1.4.0] - 2023-12-10](#140---2023-12-10)
+    - [🚀 Features](#-features-2)
+    - [🐛 Bug Fixes](#-bug-fixes-1)
+    - [⚙️ Miscellaneous Tasks](#-miscellaneous-tasks-3)
+  - [[1.3.0] - 2023-08-03](#130---2023-08-03)
+    - [🚀 Features](#-features-3)
+    - [⚙️ Miscellaneous Tasks](#-miscellaneous-tasks-4)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Changelog
 
 All notable changes to this project will be documented in this file.
+
+## [unreleased]
+
+### ⚙️ Miscellaneous Tasks
+
+- Update CHANGELOG
 
 ## [1.4.3] - 2024-03-01
 

@@ -1,0 +1,4 @@
+#!/bin/bash
+
+changelog_file="CHANGELOG.md"
+git cliff > $changelog_file && doctoc $changelog_file
